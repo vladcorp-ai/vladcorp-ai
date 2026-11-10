@@ -19,6 +19,10 @@ Before software I spent 5 years with **BSH (Bosch)** supervising 17 mono-brand s
 
 Also: an e-learning platform with timed exams and QR-verified certificates (Django + Next.js), an AI goal planner with voice input (Cloudflare Workers AI, Whisper), and an automated daily bilingual video pipeline (TTS, ffmpeg, ComfyUI).
 
+## Open source
+
+- **[telegram-webapp-auth](https://github.com/vladcorp-ai/telegram-webapp-auth)** — zero-dependency validation of Telegram Mini App `initData` and Login Widget data + Express middleware (TypeScript, tested).
+
 > Product source code is private (commercial projects). Each showcase repo explains the product, architecture and key engineering decisions, with screenshots.
 
 ## Stack
