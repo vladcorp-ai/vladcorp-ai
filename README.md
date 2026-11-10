@@ -12,10 +12,10 @@ Before software I spent 5 years with **BSH (Bosch)** supervising 17 mono-brand s
 
 | Product | What it does | Stack |
 |---|---|---|
-| **[MasterUz](https://github.com/dex89666/masteruz-showcase)** · [live](https://www.mestro.uz) | Home-services marketplace: the client sends a photo, AI estimates the job and price, nearby masters respond. Web + Android, RU/UZ/EN | React, TypeScript, Express, Prisma, PostgreSQL, Redis, Capacitor, LLM APIs |
-| **[RestoMetrics](https://github.com/dex89666/restometrics-showcase)** | Financial control & tax compliance SaaS for SMBs: bank statements, POS ↔ bank reconciliation, double-entry ledger, tax calculations, AI assistant | Python, FastAPI, PostgreSQL (RLS), React, LLM agent |
-| **[TimeRadar](https://github.com/dex89666/timeradar-showcase)** | Booking & CRM SaaS for beauty salons and salon chains | NestJS, Next.js 15, Prisma, PostgreSQL |
-| **[Fit Trainer](https://github.com/dex89666/fit-trainer-showcase)** | AI fitness Telegram Mini App: AI workout generator, referral rewards, coach dashboard | React, Node.js, MongoDB, OpenAI |
+| **[MasterUz](https://github.com/vladcorp-ai/masteruz-showcase)** · [live](https://www.mestro.uz) | Home-services marketplace: the client sends a photo, AI estimates the job and price, nearby masters respond. Web + Android, RU/UZ/EN | React, TypeScript, Express, Prisma, PostgreSQL, Redis, Capacitor, LLM APIs |
+| **[RestoMetrics](https://github.com/vladcorp-ai/restometrics-showcase)** | Financial control & tax compliance SaaS for SMBs: bank statements, POS ↔ bank reconciliation, double-entry ledger, tax calculations, AI assistant | Python, FastAPI, PostgreSQL (RLS), React, LLM agent |
+| **[TimeRadar](https://github.com/vladcorp-ai/timeradar-showcase)** | Booking & CRM SaaS for beauty salons and salon chains | NestJS, Next.js 15, Prisma, PostgreSQL |
+| **[Fit Trainer](https://github.com/vladcorp-ai/fit-trainer-showcase)** | AI fitness Telegram Mini App: AI workout generator, referral rewards, coach dashboard | React, Node.js, MongoDB, OpenAI |
 
 Also: an e-learning platform with timed exams and QR-verified certificates (Django + Next.js), an AI goal planner with voice input (Cloudflare Workers AI, Whisper), and an automated daily bilingual video pipeline (TTS, ffmpeg, ComfyUI).
 
